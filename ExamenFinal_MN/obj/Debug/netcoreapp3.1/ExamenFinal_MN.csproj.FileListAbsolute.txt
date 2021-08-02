@@ -1,0 +1,13 @@
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.exe
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.deps.json
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.runtimeconfig.json
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.runtimeconfig.dev.json
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.dll
+C:\Users\Valeria\source\repos\ExamenFinal_MN\bin\Debug\netcoreapp3.1\ExamenFinal_MN.pdb
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.AssemblyInfoInputs.cache
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.AssemblyInfo.cs
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.dll
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.pdb
+C:\Users\Valeria\source\repos\ExamenFinal_MN\obj\Debug\netcoreapp3.1\ExamenFinal_MN.genruntimeconfig.cache

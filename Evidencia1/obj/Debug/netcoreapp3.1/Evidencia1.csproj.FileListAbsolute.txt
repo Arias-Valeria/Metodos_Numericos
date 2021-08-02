@@ -1,0 +1,13 @@
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.exe
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.deps.json
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.runtimeconfig.json
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.runtimeconfig.dev.json
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.dll
+C:\Users\Valeria\source\repos\Evidencia1\bin\Debug\netcoreapp3.1\Evidencia1.pdb
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.AssemblyInfoInputs.cache
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.AssemblyInfo.cs
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.dll
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.pdb
+C:\Users\Valeria\source\repos\Evidencia1\obj\Debug\netcoreapp3.1\Evidencia1.genruntimeconfig.cache
